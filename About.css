@@ -1,0 +1,38 @@
+#initial{
+    color:blueviolet;
+    background-color:white;
+    font-size:20px
+}
+.special{
+    color:black;
+    background-color:white;
+    font-size:20px
+}
+.specific{
+    color:orange;
+    background-color:white;
+    font-size:20px
+}
+p[title="para"]{
+    color:red;
+    background-color:white;
+    font-size:20px
+}
+p[title|="para"]{
+    color:brown;
+    background-color:white;
+    font-size:20px
+}
+.speci{
+    color:blue;
+    background-color:white;
+    font-size:20px
+}
+p{
+    color:red;
+    background-color:white;
+    font-size:20px
+}
+p::first-letter{
+    color:red
+}

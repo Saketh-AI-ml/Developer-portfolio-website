@@ -1,0 +1,133 @@
+h1{
+    color:red;
+    background-color:rgba(42, 165, 83, 0.435);
+    font-size:45px
+}
+h2{
+    color:brown;
+    background-color:yellowgreen;
+    font-size:40px
+}
+#clock{
+    color:black;
+    background-color:blue;
+    font-size:35px;
+    padding:15px;
+    margin-right:700px
+}
+.programming{
+    color:greenyellow;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+.developer{
+    color:red;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+.develop{
+    color:greenyellow;
+    padding:6px;
+    margin-right:900px
+}
+#web{
+    color:red;
+    background-color:blue;
+    font-size:35px;
+    padding:15px;
+    margin-right:700px
+}
+#page{
+    color:red;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+#color{
+    color:green;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+#function{
+    color:yellow;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+#frame{
+    color:black;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+#back{
+    color:brown;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+#data{
+    color:orange;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+.tools{
+    color:red;
+    background-color:blue;
+    font-size:35px;
+    padding:15px;
+    margin-right:700px
+}
+.one{
+    color:pink;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+.two{
+    color:bisque;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+.three{
+    color:brown;
+    font-size:25px;
+    padding:6px;
+    margin-right:900px
+}
+.other{
+    color:red;
+    background-color:blue;
+    font-size:35px;
+    padding:15px;
+    margin-right:700px
+}
+li[title="para"]{
+    color:black;
+    padding:6px;
+    font-size:25px;
+    margin-right:900px
+}
+li[title~="para"]{
+    color:red;
+    padding:6px;
+    font-size:25px;
+    margin-right:900px
+}
+li[title^="paragraph"]{
+    color:brown;
+    padding:6px;
+    font-size:25px;
+    margin-right:900px
+}
+.style{
+    color:yellowgreen;
+    padding:6px;
+    font-size:25px;
+    margin-right:900px
+}
